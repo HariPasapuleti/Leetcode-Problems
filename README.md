@@ -48,11 +48,13 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2645-pass-the-pillow](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2645-pass-the-pillow) |
 ## String
