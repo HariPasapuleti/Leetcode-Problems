@@ -12,11 +12,13 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Linked List
 |  |
 | ------- |
@@ -60,4 +63,8 @@
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Counting
+|  |
+| ------- |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 <!---LeetCode Topics End-->
