@@ -26,6 +26,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [1894-merge-strings-alternately](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
