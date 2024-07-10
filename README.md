@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1720-crawler-log-folder](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
