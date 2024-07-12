@@ -56,6 +56,7 @@
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Linked List
 |  |
@@ -88,6 +89,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Matrix
@@ -111,6 +113,7 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
