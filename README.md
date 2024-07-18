@@ -38,6 +38,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -66,6 +67,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1777-determine-if-two-strings-are-close](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
@@ -109,6 +111,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
+| [1777-determine-if-two-strings-are-close](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -120,6 +123,7 @@
 ## Counting
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Recursion
 |  |
