@@ -95,6 +95,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
@@ -120,6 +121,7 @@
 | [1894-merge-strings-alternately](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2470-removing-stars-from-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2470-removing-stars-from-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
