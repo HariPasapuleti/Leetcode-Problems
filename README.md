@@ -18,6 +18,7 @@
 | [1293-three-consecutive-odds](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -122,6 +123,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 ## Counting
