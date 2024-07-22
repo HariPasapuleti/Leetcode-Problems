@@ -33,6 +33,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -46,6 +47,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
+| [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Two Pointers
@@ -74,6 +76,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
