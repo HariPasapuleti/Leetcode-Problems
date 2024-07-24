@@ -154,6 +154,7 @@
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -200,4 +201,12 @@
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
