@@ -89,6 +89,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -124,6 +125,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -154,6 +156,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
