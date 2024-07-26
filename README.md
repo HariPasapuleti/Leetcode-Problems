@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 ## Sliding Window
@@ -238,4 +239,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0948-sort-an-array) |
+## Graph
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
