@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
