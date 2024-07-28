@@ -44,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
