@@ -22,6 +22,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -201,6 +202,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 ## Sliding Window
@@ -269,4 +271,8 @@
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
