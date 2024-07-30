@@ -148,6 +148,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
@@ -187,6 +188,7 @@
 | [0735-asteroid-collision](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -204,6 +206,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 ## Sliding Window
 |  |
