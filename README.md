@@ -17,6 +17,7 @@
 | [0735-asteroid-collision](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0948-sort-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1196-filling-bookcase-shelves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [1196-filling-bookcase-shelves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
