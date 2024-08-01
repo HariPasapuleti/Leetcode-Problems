@@ -40,6 +40,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2727-number-of-senior-citizens](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -157,6 +158,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
 |  |
