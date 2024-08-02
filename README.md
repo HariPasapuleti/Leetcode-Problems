@@ -36,6 +36,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
@@ -219,6 +220,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Tree
 |  |
 | ------- |
