@@ -27,6 +27,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1720-crawler-log-folder) |
@@ -75,6 +76,7 @@
 | [0392-is-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | [0948-sort-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
