@@ -66,6 +66,7 @@
 | [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 | [2502-sort-the-people](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +190,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
 | ------- |
