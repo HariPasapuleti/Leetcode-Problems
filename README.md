@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -197,6 +198,7 @@
 | [0002-add-two-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -302,4 +304,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1511-count-number-of-teams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
