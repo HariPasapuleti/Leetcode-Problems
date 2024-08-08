@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0921-spiral-matrix-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1196-filling-bookcase-shelves) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [0921-spiral-matrix-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -184,6 +186,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
