@@ -50,6 +50,7 @@
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2645-pass-the-pillow) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Math
 |  |
 | ------- |
