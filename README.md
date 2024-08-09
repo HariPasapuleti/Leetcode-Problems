@@ -318,4 +318,8 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
