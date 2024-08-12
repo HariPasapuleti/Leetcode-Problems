@@ -25,3 +25,11 @@ Each problem's solution is stored in a separate file, with the following structu
 ## Usage
 
 Feel free to explore the solutions, and if you're working on a similar problem, you might find different perspectives or techniques that can help you.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
