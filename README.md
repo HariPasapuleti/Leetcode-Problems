@@ -32,4 +32,12 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0175-combine-two-tables) |
+## Array
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
