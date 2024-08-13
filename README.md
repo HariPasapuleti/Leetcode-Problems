@@ -40,4 +40,12 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+## String
+|  |
+| ------- |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+## Greedy
+|  |
+| ------- |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 <!---LeetCode Topics End-->
