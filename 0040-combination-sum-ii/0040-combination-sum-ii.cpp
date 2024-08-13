@@ -3,17 +3,17 @@
 
 class Solution {
 public:
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        vector<vector<int>> result;
-        vector<int> combination;
-        sort(candidates.begin(), candidates.end()); // Sort the candidates to handle duplicates
+    std::vector<std::vector<int>> combinationSum2(std::vector<int>& candidates, int target) {
+        std::vector<std::vector<int>> result;
+        std::vector<int> combination;
+        std::sort(candidates.begin(), candidates.end()); // Sort the candidates to handle duplicates
         backtrack(candidates, target, 0, combination, result);
         return result;
     }
 
 private:
-    void backtrack(const vector<int>& candidates, int target, int start,
-                   vector<int>& combination, vector<vector<int>>& result) {
+    void backtrack(const std::vector<int>& candidates, int target, int start,
+                   std::vector<int>& combination, std::vector<std::vector<int>>& result) {
         if (target == 0) {
             result.push_back(combination);
             return;
@@ -53,7 +53,7 @@ private:
 //         }
 
 //         int i = 0;
-//         vector <vector<int>> res;
+//         vector <int> res;
 
 //         while(i < j)
 //         {
