@@ -89,6 +89,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [2752-sum-multiples](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2752-sum-multiples) |
 ## Counting
 |  |
 | ------- |
