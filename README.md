@@ -98,6 +98,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [2630-alternating-digit-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2752-sum-multiples) |
 ## Counting
 |  |
