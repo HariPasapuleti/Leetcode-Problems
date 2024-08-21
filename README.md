@@ -110,6 +110,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0650-2-keys-keyboard](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2630-alternating-digit-sum) |
+| [2748-calculate-delayed-arrival-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2752-sum-multiples) |
 ## Counting
 |  |
