@@ -107,6 +107,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0476-number-complement](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
