@@ -108,6 +108,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1054-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
