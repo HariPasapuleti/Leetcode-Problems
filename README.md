@@ -120,6 +120,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
