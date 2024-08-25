@@ -174,6 +174,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Geometry
 |  |
@@ -187,12 +188,15 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
