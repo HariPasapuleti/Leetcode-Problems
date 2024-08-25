@@ -12,7 +12,7 @@
 class Solution {
 public:
     vector<int> vec;
-    
+
     vector<int> inorderTraversal(TreeNode* root) {
         inorder(root);
         return vec;
@@ -22,10 +22,9 @@ public:
     {
         if(root == NULL) return;
 
-        inorderTraversal(root->left);
+        inorder(root->left);
         vec.push_back(root->val);
-        inorderTraversal(root->right);
+        inorder(root->right);
 
-        // return vec; 
     }
 };
