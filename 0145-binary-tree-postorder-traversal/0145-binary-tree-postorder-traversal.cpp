@@ -14,7 +14,14 @@ public:
     vector<int> ans;
 
     vector<int> postorderTraversal(TreeNode* root) {
-        postorder(root);
+
+        if(root != NULL) 
+        {
+            postorderTraversal(root->left);
+            postorderTraversal(root->right);
+            ans.push_back(root->val);
+        }
+        // postorder(root);
         return ans;
     }
 
@@ -25,6 +32,6 @@ public:
         postorder(root->left);
         postorder(root->right);
         ans.push_back(root->val);
-        
     }
+
 };
