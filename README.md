@@ -44,6 +44,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0624-maximum-distance-in-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
+| [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2048-build-array-from-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -128,6 +129,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
+| [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -170,4 +172,12 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Geometry
+|  |
+| ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
+## Matrix
+|  |
+| ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
