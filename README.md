@@ -71,6 +71,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -144,6 +145,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Counting
 |  |
 | ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
