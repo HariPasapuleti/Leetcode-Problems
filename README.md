@@ -32,6 +32,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0595-big-countries) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
