@@ -51,6 +51,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
@@ -78,6 +79,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -123,6 +125,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
