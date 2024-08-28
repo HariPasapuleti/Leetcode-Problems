@@ -37,6 +37,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0595-big-countries](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0595-big-countries) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1390-average-selling-price) |
