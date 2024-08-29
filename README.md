@@ -46,6 +46,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1801-average-time-of-process-per-machine](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2024-calculate-special-bonus) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
