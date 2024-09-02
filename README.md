@@ -69,6 +69,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2048-build-array-from-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -99,6 +100,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1904-second-largest-digit-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2580-circular-sentence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
