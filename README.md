@@ -51,6 +51,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2024-calculate-special-bonus) |
+| [2087-confirmation-rate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
