@@ -46,6 +46,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1317-monthly-transactions-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1390-average-selling-price) |
+| [1480-movie-rating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1480-movie-rating) |
 | [1670-patients-with-a-condition](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1801-average-time-of-process-per-machine) |
