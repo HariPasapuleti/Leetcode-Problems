@@ -210,6 +210,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
