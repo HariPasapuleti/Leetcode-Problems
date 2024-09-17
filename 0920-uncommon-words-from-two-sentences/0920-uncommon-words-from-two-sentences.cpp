@@ -7,15 +7,13 @@ public:
         for (int i = 0; i < s1.size(); i++) {
             if (s1[i] == ' ') {
                 hash_map[word]++;
-                cout << word << endl;
                 word = "";
             } else {
                 word += s1[i];
             }
-            
         }
-        hash_map[word]++;
-        cout << word << endl;
+        if (!word.empty())
+            hash_map[word]++;
 
         word = "";
         for (int j = 0; j < s2.size(); j++) {
@@ -23,14 +21,12 @@ public:
                 hash_map[word]++;
                 cout << word << endl;
                 word = "";
-            }
-            else {
+            } else {
                 word += s2[j];
             }
         }
-        if (s2.size() > 1)
+        if (!word.empty())
             hash_map[word]++;
-        // cout << word << endl;
 
         vector<string> result;
         for (auto& pair : hash_map) {
