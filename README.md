@@ -71,6 +71,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0001-two-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -110,6 +111,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -130,6 +132,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
@@ -152,6 +155,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
