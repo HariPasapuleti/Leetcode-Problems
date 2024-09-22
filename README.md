@@ -33,6 +33,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0175-combine-two-tables](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0197-rising-temperature) |
