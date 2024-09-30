@@ -80,6 +80,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1127-last-stone-weight](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1127-last-stone-weight) |
@@ -316,6 +317,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -344,4 +346,12 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
