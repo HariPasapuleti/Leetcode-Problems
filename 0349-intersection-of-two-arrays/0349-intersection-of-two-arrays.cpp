@@ -7,14 +7,15 @@ public:
 
         vector<int> res;
 
-        int i = 0,j=0;
-        while(i < nums1.size() && j < nums2.size())
-        {
-            if(nums1[i] > nums2[j]) j++;
-            else if(nums1[i] < nums2[j]) i++;
+        int i = 0, j = 0;
+        while (i < nums1.size() && j < nums2.size()) {
+            if (nums1[i] > nums2[j])
+                j++;
+            else if (nums1[i] < nums2[j])
+                i++;
             else {
-                if(res.size() == 0) res.push_back(nums1[i]);
-                else if(res.back() != nums1[i]) res.push_back(nums1[i]);
+                if (res.size() == 0 || res.back() != nums1[i])
+                    res.push_back(nums1[i]);
                 i++;
                 j++;
             }
