@@ -75,6 +75,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -192,6 +193,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
