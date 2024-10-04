@@ -100,6 +100,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -154,6 +155,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2892-check-if-array-is-good](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2892-check-if-array-is-good) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 ## Hash Table
@@ -190,6 +193,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2892-check-if-array-is-good](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2892-check-if-array-is-good) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
