@@ -123,6 +123,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -154,6 +155,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -184,6 +186,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0217-contains-duplicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -340,6 +343,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Prefix Sum
