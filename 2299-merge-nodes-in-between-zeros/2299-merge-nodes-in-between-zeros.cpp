@@ -11,25 +11,29 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
-        
-        ListNode* temp=head->next;
-        ListNode* mod=head;
-        while(temp!=NULL)
+
+        ListNode* temp=head;
+        ListNode* curr=head;
+
+        while(temp->next!=NULL)
         {
             int sum=0;
-            
+            temp=temp->next;
+
             while(temp->val!=0)
             {
                 sum+=temp->val;
                 temp=temp->next;
             }
-            temp=temp->next;
-            // cout << sum << endl;
 
-            mod->next=new ListNode(sum);
-            mod=mod->next;
+            if(curr!=NULL) {
+                curr->next=new ListNode(sum);
+                curr=curr->next;
+            }
+            else curr=new ListNode(sum);
+
+            // cout << curr->val << endl;
         }
         return head->next;
-
     }
 };
