@@ -157,6 +157,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -343,6 +344,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
