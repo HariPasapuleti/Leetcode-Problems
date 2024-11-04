@@ -147,6 +147,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3451-string-compression-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3451-string-compression-iii) |
 ## Greedy
 |  |
 | ------- |
