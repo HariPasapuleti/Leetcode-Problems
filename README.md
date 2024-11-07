@@ -100,6 +100,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -208,6 +209,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -224,6 +226,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -258,6 +261,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
 ## Simulation
 |  |
