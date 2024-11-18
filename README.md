@@ -91,6 +91,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1127-last-stone-weight](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1755-defuse-the-bomb](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -374,6 +375,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [1755-defuse-the-bomb](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
