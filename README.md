@@ -105,6 +105,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -215,6 +216,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2892-check-if-array-is-good](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2892-check-if-array-is-good) |
@@ -377,6 +379,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Prefix Sum
