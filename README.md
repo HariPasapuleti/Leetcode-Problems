@@ -89,6 +89,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1127-last-stone-weight](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1127-last-stone-weight) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1755-defuse-the-bomb](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
@@ -209,6 +210,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -323,6 +325,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3330-modify-the-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3330-modify-the-matrix) |
