@@ -76,6 +76,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0031-next-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -268,6 +269,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0009-palindrome-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
@@ -351,6 +353,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1972-rotating-the-box) |
