@@ -79,6 +79,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
@@ -219,6 +220,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0001-two-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -443,4 +445,8 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0812-rotate-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
