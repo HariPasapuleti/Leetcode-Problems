@@ -2,40 +2,35 @@ class Solution {
 public:
     int myAtoi(string s) {
 
-        int sign = 1, flag1 = 0, pn = 0;
-        long long value = 0;
-        for (int i = 0; i < s.size(); i++) {
+        // const long long mod = 1e9 + 7;
+        long long res = 0, sign = 1, i = 0;
 
-            if(s[i] == ' ') {
-                if(flag1 == 1 || pn > 0) break;
-                continue;
-            }
-            
-            if (s[i] == '-' && flag1 == 0) {
-                sign = -1;
-            }
+        while (i < s.size() && s[i] == ' ')
+            i++;
 
-            if (s[i] == '-' || s[i] == '+') {
-                pn++;
-                if(flag1 == 1 || pn > 1) break;
-                continue;
-            }
-
-            if (s[i] - '0' <= 9 && s[i] - '0' >= 0) {
-                flag1 = 1;
-                value *= 10;
-                value += s[i] - '0';
-                if (value * sign >= INT_MAX) {
-                    return INT_MAX;
-                }
-                if (value * sign <= INT_MIN) {
-                    return INT_MIN;
-                }
-            } else {
-                break;
-            }
+        if (s[i] == '+') {
+            sign = 1;
+            i++;
+        } else if (s[i] == '-') {
+            sign = -1;
+            i++;
         }
 
-        return value * sign;
+        for (int j = i; j < s.size(); j++) {
+            if (s[j] - '0' >= 0 && s[j] - '9' <= 9) {
+                res *= 10;
+                res += s[j] - '0';
+
+                if (res * sign >= INT_MAX)
+                    return INT_MAX;
+                else if (res * sign <= INT_MIN)
+                    return INT_MIN;
+
+            } else
+                break;
+
+        }
+
+        return res*sign;
     }
 };
