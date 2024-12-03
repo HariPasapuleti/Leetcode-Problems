@@ -80,6 +80,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -223,6 +224,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0015-3sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0217-contains-duplicate) |
