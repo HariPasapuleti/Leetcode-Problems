@@ -177,6 +177,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2580-circular-sentence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3451-string-compression-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3451-string-compression-iii) |
@@ -211,6 +212,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
