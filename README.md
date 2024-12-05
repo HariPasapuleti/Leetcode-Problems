@@ -174,6 +174,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -211,6 +212,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1972-rotating-the-box](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
