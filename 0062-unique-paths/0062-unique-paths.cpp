@@ -16,8 +16,8 @@ public:
             return dp[i][j];
 
         int up = count_path(i - 1, j, dp);
-        int down = count_path(i, j - 1, dp);
+        int left = count_path(i, j - 1, dp);
 
-        return dp[i][j] = (up + down);
+        return dp[i][j] = (up + left);
     }
 };
