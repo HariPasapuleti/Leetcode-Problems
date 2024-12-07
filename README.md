@@ -82,6 +82,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0054-spiral-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -365,6 +366,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -411,6 +413,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1972-rotating-the-box) |
