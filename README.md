@@ -177,6 +177,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1078-remove-outermost-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -424,6 +425,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Geometry
