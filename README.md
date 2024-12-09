@@ -99,6 +99,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0229-majority-element-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -384,6 +385,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0198-house-robber](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -457,6 +459,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Enumeration
 |  |
