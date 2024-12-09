@@ -170,6 +170,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
@@ -392,6 +393,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0322-coin-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
