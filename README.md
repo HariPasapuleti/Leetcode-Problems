@@ -107,6 +107,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0485-max-consecutive-ones](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -390,6 +391,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0322-coin-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
