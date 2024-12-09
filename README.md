@@ -151,6 +151,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3194-find-words-containing-character](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3330-modify-the-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3330-modify-the-matrix) |
+| [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -496,6 +498,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0560-subarray-sum-equals-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 ## Trie
 |  |
 | ------- |
