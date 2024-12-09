@@ -171,6 +171,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0014-longest-common-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -262,6 +263,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -286,6 +288,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0205-isomorphic-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
