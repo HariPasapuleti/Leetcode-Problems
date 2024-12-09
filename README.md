@@ -168,6 +168,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -516,6 +517,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Number Theory
