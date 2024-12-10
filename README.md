@@ -179,6 +179,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0521-longest-uncommon-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -418,6 +419,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0494-target-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
