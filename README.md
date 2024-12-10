@@ -185,6 +185,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1078-remove-outermost-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -421,6 +422,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Heap (Priority Queue)
