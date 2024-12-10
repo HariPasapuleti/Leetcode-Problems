@@ -166,6 +166,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
@@ -222,6 +223,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -393,6 +395,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
