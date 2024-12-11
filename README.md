@@ -75,6 +75,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0018-4sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
@@ -257,6 +258,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
