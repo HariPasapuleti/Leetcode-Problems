@@ -86,6 +86,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0056-merge-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -264,6 +265,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0493-reverse-pairs) |
