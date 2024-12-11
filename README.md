@@ -95,6 +95,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0198-house-robber) |
@@ -266,6 +267,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0035-search-insert-position](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0493-reverse-pairs) |
