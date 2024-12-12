@@ -131,6 +131,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -284,6 +285,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
