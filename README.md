@@ -190,6 +190,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
@@ -368,6 +369,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -389,6 +391,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -428,6 +431,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
 | [1806-count-of-matches-in-tournament](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
