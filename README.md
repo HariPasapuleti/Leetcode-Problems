@@ -189,6 +189,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0020-valid-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
