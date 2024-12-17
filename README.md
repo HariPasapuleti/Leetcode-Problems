@@ -197,6 +197,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -507,6 +508,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0394-decode-string) |
 | [1078-remove-outermost-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -581,6 +583,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0044-wildcard-matching](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
