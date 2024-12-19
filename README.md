@@ -545,12 +545,14 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -559,11 +561,13 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Enumeration
