@@ -551,6 +551,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -576,6 +577,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -703,4 +705,8 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
