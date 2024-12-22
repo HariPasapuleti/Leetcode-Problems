@@ -81,6 +81,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0035-search-insert-position](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0054-spiral-matrix) |
@@ -341,6 +342,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0001-two-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
