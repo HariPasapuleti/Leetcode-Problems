@@ -220,6 +220,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1250-longest-common-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -367,6 +368,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0966-binary-subarrays-with-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -644,6 +646,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0966-binary-subarrays-with-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
