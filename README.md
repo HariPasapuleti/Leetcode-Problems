@@ -584,6 +584,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
@@ -610,6 +611,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -622,6 +624,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
@@ -707,6 +710,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 ## Bucket Sort
 |  |
 | ------- |
