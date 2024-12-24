@@ -278,6 +278,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0031-next-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -359,6 +360,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0076-minimum-window-substring](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
@@ -648,6 +650,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
