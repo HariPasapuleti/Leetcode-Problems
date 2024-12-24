@@ -4,10 +4,13 @@ public:
 
         int rows = grid.size(), cols = grid[0].size();
         queue<pair<int, int>> q;
+        int ones = 0;
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (grid[i][j] == 2)
                     q.push({i, j});
+                if (grid[i][j] == 1)
+                    ones++;
             }
         }
 
@@ -26,17 +29,12 @@ public:
                     if (grid[row][col] == 1) {
                         q.push({row, col});
                         grid[row][col] = 2;
+                        ones--;
                     }
                 }
             }
             minutes++;
         }
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == 1)
-                    return -1;
-            }
-        }
-        return max(0, minutes - 1);
+        return ones == 0 ? max(0, minutes - 1) : -1;
     }
 };
