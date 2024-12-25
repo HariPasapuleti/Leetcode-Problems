@@ -168,6 +168,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -263,6 +264,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -348,6 +350,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -530,6 +533,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
