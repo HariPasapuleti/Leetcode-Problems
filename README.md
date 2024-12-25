@@ -564,6 +564,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -747,11 +748,13 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 ## String Matching
 |  |
