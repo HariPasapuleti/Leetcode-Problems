@@ -582,6 +582,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
@@ -596,6 +597,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
@@ -613,6 +615,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -624,6 +627,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
