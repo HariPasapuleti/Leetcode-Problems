@@ -313,6 +313,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -800,4 +801,8 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
