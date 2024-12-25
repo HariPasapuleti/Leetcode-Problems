@@ -165,6 +165,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -298,6 +299,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
@@ -486,6 +488,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2271-rearrange-array-elements-by-sign](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -533,6 +536,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
