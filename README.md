@@ -458,6 +458,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0728-self-dividing-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -534,6 +535,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -801,6 +803,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
