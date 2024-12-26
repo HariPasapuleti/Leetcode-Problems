@@ -88,6 +88,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0056-merge-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
@@ -197,6 +198,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0022-generate-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0494-target-sum) |
@@ -430,6 +432,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
