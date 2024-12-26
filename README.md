@@ -466,6 +466,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
@@ -714,6 +715,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0206-reverse-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0394-decode-string) |
+| [2050-count-good-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
