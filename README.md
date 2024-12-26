@@ -123,6 +123,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0747-min-cost-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0792-binary-search) |
@@ -532,6 +533,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0518-coin-change-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
+| [0747-min-cost-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
