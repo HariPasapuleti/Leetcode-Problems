@@ -138,6 +138,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1034-subarrays-with-k-different-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1063-best-sightseeing-pair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -547,6 +548,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0747-min-cost-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
+| [1063-best-sightseeing-pair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1236-n-th-tribonacci-number) |
