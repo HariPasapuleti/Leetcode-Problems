@@ -441,6 +441,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0476-number-complement](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
