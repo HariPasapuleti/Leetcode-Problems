@@ -79,6 +79,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0033-search-in-rotated-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0041-first-missing-positive) |
@@ -198,6 +199,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0051-n-queens) |
@@ -391,6 +393,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -616,6 +619,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
