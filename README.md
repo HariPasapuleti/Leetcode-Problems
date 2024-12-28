@@ -116,6 +116,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0493-reverse-pairs) |
@@ -278,6 +279,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0044-wildcard-matching](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -369,6 +371,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0242-valid-anagram](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -553,6 +556,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0322-coin-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0518-coin-change-ii) |
