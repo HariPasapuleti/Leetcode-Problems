@@ -649,6 +649,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -665,6 +666,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -684,6 +686,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
