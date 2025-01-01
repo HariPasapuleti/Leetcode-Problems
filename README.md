@@ -255,6 +255,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1397-search-suggestions-system](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -789,6 +790,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1046-max-consecutive-ones-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
