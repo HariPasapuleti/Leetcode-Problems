@@ -268,6 +268,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -442,6 +443,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1904-second-largest-digit-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -469,6 +471,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -802,6 +805,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
