@@ -177,6 +177,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2358-number-of-ways-to-split-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
+| [2465-shifting-letters-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -274,6 +275,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
@@ -807,6 +809,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 ## Trie
