@@ -7,7 +7,7 @@ public:
         pse = psee(heights);
         int total = 0;
         for (int i = 0; i < n; i++) {
-            cout << pse[i] << " " << nse[i] << endl;
+            // cout << pse[i] << " " << nse[i] << endl;
             total = max(total, (nse[i] - pse[i] - 1) * heights[i]);
         }
         return total;
