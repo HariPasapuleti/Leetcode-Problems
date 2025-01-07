@@ -155,6 +155,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -265,6 +266,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1397-search-suggestions-system](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1524-string-matching-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -871,6 +873,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 ## Union Find
 |  |
 | ------- |
