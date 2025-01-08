@@ -205,6 +205,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3330-modify-the-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3330-modify-the-matrix) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -294,6 +295,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3194-find-words-containing-character](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3451-string-compression-iii) |
 ## Greedy
 |  |
@@ -841,6 +843,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0386-lexicographical-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [1397-search-suggestions-system](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -874,6 +877,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
 |  |
 | ------- |
@@ -940,4 +944,12 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0937-online-stock-span) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
