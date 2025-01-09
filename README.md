@@ -178,6 +178,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -285,6 +286,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2580-circular-sentence) |
@@ -877,6 +879,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
 |  |
