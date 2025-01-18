@@ -247,6 +247,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
@@ -344,6 +345,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0031-next-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
