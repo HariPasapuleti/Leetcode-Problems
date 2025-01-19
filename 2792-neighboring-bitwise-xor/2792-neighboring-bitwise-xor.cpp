@@ -5,6 +5,6 @@ public:
         for (int i = 0; i < n; i++) {
             res ^= derived[i];
         }
-        return true ? res == 0 : false;
+        return res == 0;
     }
 };
