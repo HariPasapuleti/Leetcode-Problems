@@ -152,6 +152,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -563,6 +564,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -707,6 +709,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1972-rotating-the-box](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -747,6 +750,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -780,6 +784,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -914,6 +919,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 ## Bucket Sort
 |  |
 | ------- |
