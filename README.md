@@ -238,6 +238,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0131-palindrome-partitioning](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
@@ -277,6 +278,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1160-letter-tile-possibilities](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -480,6 +482,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0966-binary-subarrays-with-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -578,6 +581,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1160-letter-tile-possibilities](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
