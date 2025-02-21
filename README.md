@@ -485,6 +485,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1160-letter-tile-possibilities](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -757,6 +758,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0783-search-in-a-binary-search-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -775,6 +777,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -794,6 +797,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0783-search-in-a-binary-search-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -809,6 +813,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -925,6 +930,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0232-implement-queue-using-stacks](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0937-online-stock-span) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
