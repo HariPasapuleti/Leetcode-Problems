@@ -200,6 +200,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2553-total-cost-to-hire-k-workers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -412,6 +413,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1646-kth-missing-positive-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -599,6 +601,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
