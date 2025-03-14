@@ -151,6 +151,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1127-last-stone-weight](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -406,6 +407,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0792-binary-search](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
