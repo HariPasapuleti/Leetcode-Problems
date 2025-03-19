@@ -228,6 +228,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3429-special-array-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
@@ -551,6 +552,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2792-neighboring-bitwise-xor](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Math
 |  |
@@ -902,6 +904,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -920,6 +923,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2465-shifting-letters-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
 | ------- |
@@ -958,6 +962,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0225-implement-stack-using-queues](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 |  |
 | ------- |
