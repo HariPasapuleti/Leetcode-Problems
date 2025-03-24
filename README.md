@@ -229,6 +229,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
@@ -460,6 +461,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2892-check-if-array-is-good](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2892-check-if-array-is-good) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
