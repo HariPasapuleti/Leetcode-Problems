@@ -223,6 +223,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2892-check-if-array-is-good) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
