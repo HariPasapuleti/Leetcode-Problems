@@ -1,19 +1,19 @@
 class Solution {
 public:
     int subsetXORSum(vector<int>& nums) {
-        int res = 0, n = nums.size();
-        vector<vector<int>> dp(n + 1, vector<int>(1024, -1));
-        return helper_dp(0, nums, dp, res);
-    }
+        int n = nums.size();
+        int count = 0;
+        for(int i = 0; i < (1 << n); i++)
+        {
+            int subsetXor = 0;
+            for(int j = 0; j < n; j++)
+            {
+                if(i & (1<<j)) subsetXor ^= nums[j];
+            }
+            count += subsetXor;
 
-    int helper_dp(int ind, vector<int> nums, vector<vector<int>>& dp, int res) {
-        if (ind == nums.size())
-            return res;
-        if (dp[ind][res] != -1)
-            return dp[ind][res];
+        }
+        return count;
 
-        int take = helper_dp(ind + 1, nums, dp, res ^ nums[ind]);
-        int notTake = helper_dp(ind + 1, nums, dp, res);
-        return dp[ind][res] = take + notTake;
     }
 };
