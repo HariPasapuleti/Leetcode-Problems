@@ -174,6 +174,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1927-maximum-ascending-subarray-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -254,6 +255,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0216-combination-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String
 |  |
@@ -557,6 +559,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -598,6 +601,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -862,6 +866,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2870-longest-alternating-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2870-longest-alternating-subarray) |
 ## Graph
@@ -1034,6 +1039,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
 | ------- |
