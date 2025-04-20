@@ -138,6 +138,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -360,6 +361,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -515,6 +517,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0560-subarray-sum-equals-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -606,6 +609,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
