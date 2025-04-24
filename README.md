@@ -224,6 +224,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2870-longest-alternating-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2870-longest-alternating-subarray) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -554,6 +555,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2685-first-completely-painted-row-or-column](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2892-check-if-array-is-good) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -952,6 +954,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2478-longest-nice-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
