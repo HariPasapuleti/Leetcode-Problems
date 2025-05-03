@@ -149,6 +149,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1034-subarrays-with-k-different-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -368,6 +369,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0780-max-chunks-to-make-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
