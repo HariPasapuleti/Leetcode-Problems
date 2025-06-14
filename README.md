@@ -385,6 +385,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -643,6 +644,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2050-count-good-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2630-alternating-digit-sum) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2748-calculate-delayed-arrival-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
