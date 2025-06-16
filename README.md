@@ -188,6 +188,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
