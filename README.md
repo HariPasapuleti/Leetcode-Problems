@@ -243,6 +243,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3321-type-of-triangle) |
@@ -389,6 +390,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -501,6 +503,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2892-check-if-array-is-good) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
