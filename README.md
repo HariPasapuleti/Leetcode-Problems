@@ -346,6 +346,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -698,6 +699,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
