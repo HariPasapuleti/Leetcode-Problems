@@ -365,6 +365,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3447-clear-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3617-find-the-original-typed-string-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
 | ------- |
