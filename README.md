@@ -184,6 +184,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -568,6 +569,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1065,6 +1067,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0937-online-stock-span](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
