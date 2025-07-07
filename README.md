@@ -167,6 +167,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -384,6 +385,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -498,6 +500,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0780-max-chunks-to-make-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1397-search-suggestions-system](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -784,6 +787,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1127-last-stone-weight](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
