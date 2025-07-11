@@ -969,6 +969,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0002-add-two-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
@@ -986,6 +987,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
