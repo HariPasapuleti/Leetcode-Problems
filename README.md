@@ -217,6 +217,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2465-shifting-letters-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -396,6 +397,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2509-minimize-xor) |
 | [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -440,6 +442,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2271-rearrange-array-elements-by-sign](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -511,6 +514,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
