@@ -262,6 +262,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3429-special-array-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
@@ -791,6 +792,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
