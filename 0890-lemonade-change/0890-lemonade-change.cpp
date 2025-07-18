@@ -2,35 +2,24 @@ class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
 
-        unordered_map<int, int> hash_map;
-
+        int fiveDollorCoins = 0, tenDollorCoins = 0;
         for (int i = 0; i < bills.size(); i++) {
             if (bills[i] == 5) {
-                hash_map[bills[i]]++;
-                // cout << "In change 5 - " << hash_map[bills[i]] << endl;
+                fiveDollorCoins++;
             } else if (bills[i] == 10) {
-                cout << hash_map[5] << endl;
-                if (hash_map[5] > 0) {
-                    hash_map[5]--;
-                    hash_map[bills[i]]++;
-                    // cout << "In change 5 - " << hash_map[bills[i]] << endl;
-                } else {
-                    return false;
-                }
+                fiveDollorCoins--;
+                tenDollorCoins++;
             } else {
-                if (hash_map[5] > 0 && hash_map[10] > 0) {
-                    // cout << "Change 10 - " << hash_map[10] << endl;
-                    hash_map[5]--;
-                    hash_map[10]--;
-                    hash_map[bills[i]]++;
-                } else if (hash_map[5] > 2) {
-                    hash_map[5] -= 3;
-                    hash_map[bills[i]]++;
+                fiveDollorCoins--;
+                if (tenDollorCoins == 0) {
+                    fiveDollorCoins -= 2;
                 } else {
-                    return false;
+                    tenDollorCoins--;
                 }
             }
-            // cout << hash_map[20] << endl;
+
+            if (fiveDollorCoins < 0 || tenDollorCoins < 0)
+                return false;
         }
         return true;
     }
