@@ -89,6 +89,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0051-n-queens](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
@@ -382,6 +383,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0402-remove-k-digits) |
@@ -760,6 +762,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0042-trapping-rain-water](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
