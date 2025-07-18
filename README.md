@@ -104,6 +104,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0120-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -386,6 +387,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0044-wildcard-matching](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0402-remove-k-digits) |
