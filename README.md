@@ -163,6 +163,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1325-path-with-maximum-probability](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -338,6 +339,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1170-shortest-common-supersequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -930,6 +932,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0871-keys-and-rooms](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1088,6 +1091,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0014-longest-common-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
