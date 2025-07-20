@@ -89,6 +89,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0046-permutations](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0054-spiral-matrix) |
@@ -313,6 +314,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0038-count-and-say](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0072-edit-distance) |
@@ -508,6 +510,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0016-3sum-closest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -560,6 +563,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
