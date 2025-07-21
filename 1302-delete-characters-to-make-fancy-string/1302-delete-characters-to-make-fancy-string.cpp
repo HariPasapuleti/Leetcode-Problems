@@ -4,13 +4,12 @@ public:
 
         if (s.size() < 3)
             return s;
-        int j = 2;
+        string str = s.substr(0, 2);
         for (int i = 2; i < s.size(); i++) {
-            if (s[i] != s[j - 1] || s[i] != s[j - 2]) {
-                s[j++] = s[i];
-            }
+            if (s[i] == s[i - 1] && s[i] == s[i - 2])
+                continue;
+            str += s[i];
         }
-        s.resize(j);
-        return s;
+        return str;
     }
 };
