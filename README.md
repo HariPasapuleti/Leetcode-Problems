@@ -187,6 +187,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -603,6 +604,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1502-construct-k-palindrome-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1058,6 +1060,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
