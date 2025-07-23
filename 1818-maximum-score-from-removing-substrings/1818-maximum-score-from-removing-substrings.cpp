@@ -2,45 +2,38 @@ class Solution {
 public:
     int maximumGain(string s, int x, int y) {
 
-        int res = 0;
-        string top, bot;
-        int top_score, bot_score;
-
-        if(x < y) {
+        int top_score, bot_score, res = 0;
+        string top = "", bot = "";
+        if (x > y) {
+            top = "ab";
+            top_score = x;
+            bot = "ba";
+            bot_score = y;
+        } else {
             top = "ba";
             top_score = y;
             bot = "ab";
             bot_score = x;
         }
-        else {
-            top = "ab";
-            top_score = x;
-            bot = "ba";
-            bot_score = y;
-        }
 
-        vector<char> stack;
-        for(char ch : s)
-        {
-            if(ch == top[1] && !stack.empty() && stack.back() == top[0]) {
+        stack<char> st1, st2;
+        for (char ch : s) {
+            if (!st1.empty() && st1.top() == top[0] && ch == top[1]) {
+                st1.pop();
                 res += top_score;
-                stack.pop_back();
-            }
-            else {
-                stack.push_back(ch);
+            } else {
+                st1.push(ch);
             }
         }
 
-        vector<char> new_stack;
-        for(char ch : stack) 
-        {
-            if(ch == bot[1] && !new_stack.empty() && new_stack.back() == bot[0]) {
+        while (!st1.empty()) {
+            if (!st2.empty() && st2.top() == bot[1] && st1.top() == bot[0]) {
+                st2.pop();
                 res += bot_score;
-                new_stack.pop_back();
+            } else {
+                st2.push(st1.top());
             }
-            else {
-                new_stack.push_back(ch);
-            }
+            st1.pop();
         }
         return res;
     }
