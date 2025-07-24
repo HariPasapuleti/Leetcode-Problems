@@ -322,6 +322,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -792,6 +793,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0064-minimum-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
