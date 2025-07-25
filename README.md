@@ -277,6 +277,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3639-zero-array-transformation-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
 | ------- |
@@ -434,6 +435,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -642,6 +644,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3455-minimum-length-of-string-after-operations](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
