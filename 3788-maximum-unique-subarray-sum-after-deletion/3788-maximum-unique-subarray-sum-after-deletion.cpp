@@ -1,15 +1,16 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums) {
-        unordered_set<int> positiveNumsSet;
-        for (int num : nums) {
-            if (num > 0) {
-                positiveNumsSet.emplace(num);
+
+        unordered_set<int> seen;
+        int res = 0, max_element = nums[0];
+        for (int i = 0; i < nums.size(); i++) {
+            if (seen.find(nums[i]) == seen.end() && nums[i] > 0) {
+                seen.insert(nums[i]);
+                res += nums[i];
             }
+            max_element = max(max_element, nums[i]);
         }
-        if (positiveNumsSet.empty()) {
-            return *max_element(nums.begin(), nums.end());
-        }
-        return accumulate(positiveNumsSet.begin(), positiveNumsSet.end(), 0);
+        return res == 0 ? max_element : res;
     }
 };
