@@ -331,6 +331,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0205-isomorphic-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -529,6 +530,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0242-valid-anagram](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
@@ -587,6 +589,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -654,6 +657,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
