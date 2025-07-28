@@ -1,30 +1,29 @@
 class Solution {
 public:
     int countMaxOrSubsets(vector<int>& nums) {
-
-        int max_element=nums[0];
-
-        for(int i=1;i<nums.size();i++)
-        {
-            max_element=max_element|nums[i];
+        int maxOrValue = 0;
+        for (int num : nums) {
+            maxOrValue |= num;
         }
-        cout << max_element << endl;
-        int res=0;
-        subsetCount(0, nums, max_element, 0, res);
-        return res;
+        return countSubsets(nums, 0, 0, maxOrValue);
     }
 
-    void subsetCount(int index, vector<int> nums, int max_element, int temp, int &res)
-    {
-        
-        if(index==nums.size()){
-            if(temp==max_element) {
-                res++;
-            }
-            return;
+private:
+    int countSubsets(vector<int>& nums, int index, int currentOr,
+                     int targetOr) {
+        // Base case: reached the end of the array
+        if (index == nums.size()) {
+            return (currentOr == targetOr) ? 1 : 0;
         }
 
-        subsetCount(index+1, nums, max_element, temp|nums[index], res);
-        subsetCount(index+1, nums, max_element, temp, res);
+        // Don't include the current number
+        int countWithout = countSubsets(nums, index + 1, currentOr, targetOr);
+
+        // Include the current number
+        int countWith =
+            countSubsets(nums, index + 1, currentOr | nums[index], targetOr);
+
+        // Return the sum of both cases
+        return countWithout + countWith;
     }
 };
