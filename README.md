@@ -244,6 +244,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2681-put-marbles-in-bags](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -433,6 +434,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -556,6 +558,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2636-maximum-subsequence-score](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -640,6 +643,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2626-count-the-number-of-good-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
