@@ -283,6 +283,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -519,6 +520,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -796,6 +798,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3447-clear-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1200,6 +1203,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1210,6 +1214,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0493-reverse-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [3790-fruits-into-baskets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
 |  |
 | ------- |
