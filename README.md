@@ -281,6 +281,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -855,6 +856,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -943,6 +945,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3330-modify-the-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3330-modify-the-matrix) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Tree
 |  |
 | ------- |
