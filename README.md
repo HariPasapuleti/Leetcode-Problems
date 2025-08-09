@@ -670,6 +670,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0078-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0389-find-the-difference) |
@@ -714,6 +715,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0070-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0564-find-the-closest-palindrome](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -1081,6 +1083,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0060-permutation-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1013-fibonacci-number) |
