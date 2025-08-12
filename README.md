@@ -862,6 +862,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Heap (Priority Queue)
