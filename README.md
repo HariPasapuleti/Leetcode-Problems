@@ -427,6 +427,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -736,6 +737,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1370-count-number-of-nice-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1806-count-of-matches-in-tournament](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
