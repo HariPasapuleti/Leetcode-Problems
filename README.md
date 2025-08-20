@@ -300,6 +300,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0051-n-queens](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
@@ -676,6 +677,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -722,6 +724,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0067-add-binary](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
