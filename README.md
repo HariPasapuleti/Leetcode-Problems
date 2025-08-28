@@ -735,6 +735,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0069-sqrtx](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -852,6 +853,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0087-scramble-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0120-triangle) |
@@ -988,6 +990,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1030,6 +1033,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1295,6 +1299,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Quickselect
