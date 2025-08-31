@@ -115,6 +115,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0128-longest-consecutive-sequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0162-find-peak-element) |
@@ -738,6 +739,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0070-climbing-stairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -941,6 +943,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0094-binary-tree-inorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
