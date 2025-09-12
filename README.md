@@ -424,6 +424,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3447-clear-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
@@ -788,6 +789,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
@@ -938,10 +940,12 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
