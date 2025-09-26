@@ -148,6 +148,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0560-subarray-sum-equals-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0611-valid-triangle-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -443,6 +444,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0402-remove-k-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -504,6 +506,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0349-intersection-of-two-arrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -534,6 +537,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0374-guess-number-higher-or-lower](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -577,6 +581,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0451-sort-characters-by-frequency](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
