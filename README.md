@@ -158,6 +158,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0780-max-chunks-to-make-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -773,6 +774,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0650-2-keys-keyboard](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -1001,6 +1003,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 ## Matrix
 |  |
