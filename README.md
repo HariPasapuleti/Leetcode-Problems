@@ -289,6 +289,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3330-modify-the-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3330-modify-the-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
@@ -1248,6 +1249,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
