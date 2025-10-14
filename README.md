@@ -304,6 +304,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [4003-longest-fibonacci-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4003-longest-fibonacci-subarray) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
 |  |
