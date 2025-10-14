@@ -307,6 +307,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4003-longest-fibonacci-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4003-longest-fibonacci-subarray) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4039-compute-decimal-representation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4039-compute-decimal-representation) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
