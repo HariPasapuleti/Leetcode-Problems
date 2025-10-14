@@ -304,6 +304,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -719,6 +720,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -858,6 +860,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3455-minimum-length-of-string-after-operations](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
