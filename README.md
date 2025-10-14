@@ -440,6 +440,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3462-vowels-game-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4052-equal-score-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4052-equal-score-substrings) |
 | [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
 |  |
@@ -1264,6 +1265,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
+| [4052-equal-score-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4052-equal-score-substrings) |
 ## Trie
 |  |
 | ------- |
