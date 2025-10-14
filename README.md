@@ -305,6 +305,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [4003-longest-fibonacci-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4003-longest-fibonacci-subarray) |
+| [4039-compute-decimal-representation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4039-compute-decimal-representation) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
 |  |
@@ -830,6 +831,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3462-vowels-game-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [4039-compute-decimal-representation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4039-compute-decimal-representation) |
 ## Counting
 |  |
 | ------- |
