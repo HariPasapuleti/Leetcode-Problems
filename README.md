@@ -304,6 +304,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4003-longest-fibonacci-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4003-longest-fibonacci-subarray) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4039-compute-decimal-representation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4039-compute-decimal-representation) |
@@ -489,6 +490,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -628,6 +630,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3291-find-if-array-can-be-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -723,6 +726,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
