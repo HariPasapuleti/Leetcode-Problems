@@ -439,6 +439,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3462-vowels-game-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -717,6 +718,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -855,6 +857,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1143,6 +1146,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2870-longest-alternating-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2870-longest-alternating-subarray) |
 | [2998-count-symmetric-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
+| [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
 ## Graph
 |  |
 | ------- |
