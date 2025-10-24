@@ -335,6 +335,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1160-letter-tile-possibilities](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -701,6 +702,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -822,6 +824,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -864,6 +867,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -1165,6 +1169,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1656-count-good-triplets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2870-longest-alternating-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2870-longest-alternating-subarray) |
 | [2998-count-symmetric-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 | [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
