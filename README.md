@@ -821,6 +821,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1500-count-largest-group](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2050-count-good-numbers) |
