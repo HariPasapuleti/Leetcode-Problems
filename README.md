@@ -227,6 +227,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -425,6 +426,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -826,6 +828,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1071,6 +1074,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1972-rotating-the-box](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3330-modify-the-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3330-modify-the-matrix) |
