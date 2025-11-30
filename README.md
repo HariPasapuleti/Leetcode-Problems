@@ -200,6 +200,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -711,6 +712,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1500-count-largest-group](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -1313,6 +1315,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1477-product-of-the-last-k-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
