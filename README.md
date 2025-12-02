@@ -310,6 +310,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3639-zero-array-transformation-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -752,6 +753,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -875,6 +877,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4039-compute-decimal-representation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4039-compute-decimal-representation) |
@@ -1089,6 +1092,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0149-max-points-on-a-line](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
+| [3623-count-number-of-trapezoids-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Matrix
 |  |
 | ------- |
