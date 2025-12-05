@@ -303,6 +303,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -872,6 +873,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1330,6 +1332,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2691-count-vowel-strings-in-ranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [4052-equal-score-substrings](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4052-equal-score-substrings) |
