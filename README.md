@@ -851,6 +851,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1642-water-bottles](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2050-count-good-numbers) |
@@ -1213,6 +1214,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0204-count-primes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
