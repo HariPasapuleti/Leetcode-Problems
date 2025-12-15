@@ -223,6 +223,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2048-build-array-from-permutation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -855,6 +856,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1017,6 +1019,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
