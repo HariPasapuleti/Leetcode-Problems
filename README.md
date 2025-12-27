@@ -250,6 +250,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2402-meeting-rooms-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
 | [2465-shifting-letters-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
@@ -639,6 +640,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -733,6 +735,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2308-divide-array-into-equal-pairs](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2402-meeting-rooms-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2433-best-poker-hand](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2433-best-poker-hand) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -944,6 +947,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2299-merge-nodes-in-between-zeros](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -1037,6 +1041,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2402-meeting-rooms-iii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2553-total-cost-to-hire-k-workers) |
