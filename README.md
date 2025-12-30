@@ -161,6 +161,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0792-binary-search](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0859-design-circular-deque](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -700,6 +701,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0594-longest-harmonious-subsequence](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -838,6 +840,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0728-self-dividing-numbers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -1118,6 +1121,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0063-unique-paths-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0919-projection-area-of-3d-shapes](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0919-projection-area-of-3d-shapes) |
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1036-rotting-oranges) |
