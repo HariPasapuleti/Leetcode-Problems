@@ -169,6 +169,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0934-bitwise-ors-of-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -706,6 +707,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
