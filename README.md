@@ -288,6 +288,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2888-minimum-index-of-a-valid-split](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2892-check-if-array-is-good) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -660,6 +661,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2888-minimum-index-of-a-valid-split](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2892-check-if-array-is-good) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-minimum-processing-time](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3151-minimum-processing-time) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1240,6 +1242,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [2174-next-greater-numerically-balanced-number](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2870-longest-alternating-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2870-longest-alternating-subarray) |
 | [2998-count-symmetric-integers](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4055-longest-balanced-substring-i](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/4055-longest-balanced-substring-i) |
 ## Graph
 |  |
