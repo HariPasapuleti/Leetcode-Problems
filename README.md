@@ -791,6 +791,7 @@ Feel free to explore the solutions, and if you're working on a similar problem, 
 | [0342-power-of-four](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1054-complement-of-base-10-integer](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/HariPasapuleti/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
